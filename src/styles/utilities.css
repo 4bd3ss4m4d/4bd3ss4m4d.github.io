@@ -1,0 +1,4 @@
+/* Background pattern for hero section */
+.bg-grid-pattern {
+    background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' ... %3E");
+}
